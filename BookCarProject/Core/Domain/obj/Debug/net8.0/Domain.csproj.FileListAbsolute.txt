@@ -1,0 +1,12 @@
+C:\Users\hasanuslu\Desktop\hasan\BookCarProject\Core\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\hasanuslu\Desktop\hasan\BookCarProject\Core\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\hasanuslu\Desktop\hasan\BookCarProject\Core\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\hasanuslu\Desktop\hasan\BookCarProject\Core\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasanuslu\Desktop\hasan\BookCarProject\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\hasanuslu\Desktop\hasan\BookCarProject\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\hasanuslu\Desktop\hasan\BookCarProject\Core\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\hasanuslu\Desktop\hasan\BookCarProject\Core\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\hasanuslu\Desktop\hasan\BookCarProject\Core\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\hasanuslu\Desktop\hasan\BookCarProject\Core\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\hasanuslu\Desktop\hasan\BookCarProject\Core\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\hasanuslu\Desktop\hasan\BookCarProject\Core\Domain\obj\Debug\net8.0\ref\Domain.dll
